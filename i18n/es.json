@@ -812,5 +812,15 @@
     "Certifying software": "Software de certificación",
     "Check a specific server, component, or application in the catalog before you commit to it, and see who verified it and when.": "Comprueba un servidor, componente o aplicación específico en el catálogo antes de comprometerse con él, y ver quién lo verificó y cuándo.",
     "Common Criteria certification": "Certificación de Criterios Comunes",
-    "Community validated": "Validada por la comunidad"
+    "Community validated": "Validada por la comunidad",
+    "How to certify": "Cómo certificar",
+    "If you use software, sign in and confirm that a product works on the release you are running. Confirmations are counted one per person per release, and they sit alongside a publisher's certification. If you are running a product on a release its publisher has not cited, you can report that too.": "Si usas software, inicia sesión y confirma que un producto funciona en la versión que está ejecutando. Las confirmaciones se cuentan una por persona por lanzamiento y se adjuntan a la certificación de un editor. Si está ejecutando un producto en una versión que su editor no ha citado, también puede denunciarlo.",
+    "Join the Certification SIG": "Únete a la certificación SIG",
+    "Publish your results to the catalog with a free": "Publica tus resultados en el catálogo con un libre",
+    "Published by the vendor and backed by their own testing data. This is the path for hardware and software providers who want to state compatibility officially.": "Publicado por el proveedor y respaldado por sus propios datos de prueba. Este es el camino para proveedores de hardware y software que quieren establecer la compatibilidad oficialmente.",
+    "Read the program document": "Leer el documento del programa",
+    "Run the certification suite": "Ejecute el paquete de certificación",
+    "Software certification works differently, because there is no suite to run against an application the way there is against a machine. A software listing names the AlmaLinux major versions a product is certified for, and each of those versions carries its own evidence.": "La certificación de software funciona de manera diferente, porque no hay un paquete que ejecutar contra una aplicación de la misma manera que lo hay contra una máquina. Una lista de software nombra las versiones principales de AlmaLinux para las que está certificado un producto, y cada una de esas versiones lleva su propia evidencia.",
+    "Submitted by a community member. For hardware it is backed by real certification suite data, the same suite the vendors and the Foundation run. For software it is a confirmation that a product works on a given release. Community validation is just as valuable to us as a vendor listing.": "Presentado por un miembro de la comunidad. Para hardware está respaldado por datos reales del paquete de certificación, el mism paquete que los proveedores y la Fundación ejecutan. Para el software es una confirmación de que un producto funciona en una liberación dada. La validación comunitaria es tan valiosa para nosotros como un listado de proveedores.",
+    "Tested and certified directly by the AlmaLinux OS Foundation.": "Probado y certificado directamente por la Fundación AlmaLinux OS."
 }
